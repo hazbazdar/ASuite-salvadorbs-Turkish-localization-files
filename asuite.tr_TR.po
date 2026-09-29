@@ -1,0 +1,1493 @@
+# 
+# Çeviren:
+# hazbazdar (https://github.com/hazbazdar/ASuite-salvadorbs-Turkish-localization-files), 2026
+# 
+msgid ""
+msgstr "Project-Id-Version: \n"
+"POT-Creation-Date: 13.09.2026\n"
+"PO-Revision-Date: \n"
+"Last-Translator: hazbazdar\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+
+#: kernel.resourcestrings.cxactiononexeopt_item0
+msgid "Just run file"
+msgstr "Sadece yazılımı çalıştır"
+
+#: kernel.resourcestrings.cxactiononexeopt_item1
+msgid "Run and hide ASuite"
+msgstr "Çalıştır ve ASuite menüyü gizle"
+
+#: kernel.resourcestrings.cxactiononexeopt_item2
+msgid "Run and close ASuite"
+msgstr "Çalıştır ve ASuite menüyü kapat"
+
+#: kernel.resourcestrings.cxactiononexe_item0
+msgid "Default (options)"
+msgstr "Varsayılan (ayarlar)"
+
+#: kernel.resourcestrings.cxactiononexe_item1
+msgid "Just run file"
+msgstr "Sadece yazılımı çalıştır"
+
+#: kernel.resourcestrings.cxactiononexe_item2
+msgid "Run and hide ASuite"
+msgstr "Çalıştır ve ASuite menüyü gizle"
+
+#: kernel.resourcestrings.cxactiononexe_item3
+msgid "Run and close ASuite"
+msgstr "Çalıştır ve ASuite menüyü kapat"
+
+#: kernel.resourcestrings.cxautoexecute_item0
+msgid "Never"
+msgstr "Asla"
+
+#: kernel.resourcestrings.cxautoexecute_item1
+msgid "Always on startup"
+msgstr "Her zaman açılışta"
+
+#: kernel.resourcestrings.cxautoexecute_item2
+msgid "Startup, only if no previous instances are running"
+msgstr "Açılışta, eğer başka çalışan kopyası yoksa"
+
+#: kernel.resourcestrings.cxautoexecute_item3
+msgid "Always on shutdown"
+msgstr "Her zaman kapanışta"
+
+#: kernel.resourcestrings.cxmouseclick_item0
+msgid "No action"
+msgstr "Eylem yok"
+
+#: kernel.resourcestrings.cxmouseclick_item1
+msgid "Show window"
+msgstr "Pencereyi göster"
+
+#: kernel.resourcestrings.cxmouseclick_item2
+msgid "Show graphic menu"
+msgstr "Grafik menüyü göster"
+
+#: kernel.resourcestrings.cxmouseclick_item3
+msgid "Show classic menu"
+msgstr "Klasik menüyü göster"
+
+#: kernel.resourcestrings.cxscheduler_item0
+msgid "Disabled"
+msgstr "Devre dışı"
+
+#: kernel.resourcestrings.cxscheduler_item1
+msgid "Once"
+msgstr "Bir kere"
+
+#: kernel.resourcestrings.cxscheduler_item2
+msgid "Hourly"
+msgstr "Saatbaşı"
+
+#: kernel.resourcestrings.cxscheduler_item3
+msgid "Daily"
+msgstr "Günlük"
+
+#: kernel.resourcestrings.cxwindowstate_item0
+msgid "Normal"
+msgstr "Normal"
+
+#: kernel.resourcestrings.cxwindowstate_item1
+msgid "Minimized"
+msgstr "Simge durumunda"
+
+#: kernel.resourcestrings.cxwindowstate_item2
+msgid "Maximized"
+msgstr "Tam ekran"
+
+#: kernel.resourcestrings.msgadvanced
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: kernel.resourcestrings.msgautorun
+msgid "Autorun"
+msgstr "Otomatik çalıştır"
+
+#: kernel.resourcestrings.msgavailableversion
+msgid "There is a new version of ASuite available. Do you want download it?"
+msgstr "Yeni ASuite sürümü var. İndirmek ister misiniz?"
+
+#: kernel.resourcestrings.msgbehavior
+msgid "Behavior"
+msgstr "Davranış"
+
+#: kernel.resourcestrings.msgcancel
+msgid "Cancel"
+msgstr "İptal"
+
+#: kernel.resourcestrings.msgcancelscanfolder
+msgid "ScanFolder is still running. Are you sure you want to cancel it?"
+msgstr "Klasör tarama hala çalışıyor. İptal etmek istediğinize emin misiniz?"
+
+#: kernel.resourcestrings.msgclose
+msgid "Close"
+msgstr "Kapat"
+
+#: kernel.resourcestrings.msgcmopenfolder
+msgid "[Open this folder]"
+msgstr "[Bu klasörü aç]"
+
+#: kernel.resourcestrings.msgconfirm
+msgid "Are you sure?"
+msgstr "Emin misiniz?"
+
+#: kernel.resourcestrings.msgconfirmdeleteitem
+msgid "Are you sure you want to delete it?"
+msgstr "Bunu silmek istediğinize emin misiniz?"
+
+#: kernel.resourcestrings.msgconfirmruncat
+#, object-pascal-format
+msgid "Are you sure execute category %s?"
+msgstr "%s grubunu çalıştırmak istediğinize emin misiniz?"
+
+#: kernel.resourcestrings.msgcopy
+msgid "Copy_"
+msgstr "Kopya_"
+
+#: kernel.resourcestrings.msgdefaultitemsettings
+msgid "Default (item's settings)"
+msgstr "Varsayılan (öğe ayarları)"
+
+#: kernel.resourcestrings.msgejecthardware
+msgid "Safely remove hardware"
+msgstr "Donanımı güvenle çıkar"
+
+#: kernel.resourcestrings.msgenvironmentvars
+msgid "Environment Vars"
+msgstr "Ortam değişkenleri"
+
+#: kernel.resourcestrings.msgerremptyname
+msgid "Application's name field is empty"
+msgstr "Uygulama adı boş"
+
+#: kernel.resourcestrings.msgerremptypath
+msgid "Path field is empty"
+msgstr "Yol alanı boş"
+
+#: kernel.resourcestrings.msgerremptyusername
+msgid "Username field is empty"
+msgstr "Kullanıcı adı boş"
+
+#: kernel.resourcestrings.msgerrgeneric
+#, object-pascal-format
+msgid "%s error raised, with message: %s"
+msgstr "%s hatası oluştu, ilgili mesaj: %s"
+
+#: kernel.resourcestrings.msgerricon
+#, object-pascal-format
+msgid "Cannot use icon %s"
+msgstr "Simge %s kullanılamıyor"
+
+#: kernel.resourcestrings.msgerrnoicon
+#, object-pascal-format
+msgid "Couldn't find icon file %s"
+msgstr "Simge %s dosyası bulunamıyor"
+
+#: kernel.resourcestrings.msgerrnothemeini
+#, object-pascal-format
+msgid "Couldn't find file %s"
+msgstr "%s dosyası bulunamıyor"
+
+#: kernel.resourcestrings.msgerrorexecute
+#, object-pascal-format
+msgid "Failed to execute \"%s\""
+msgstr "\"%s\" çalıştırılamıyor"
+
+#: kernel.resourcestrings.msgerrorexecuteadmin
+#, object-pascal-format
+msgid "Failed to execute item \"%s\" as admin"
+msgstr "\"%s\" yönetici olarak çalıştırılamıyor"
+
+#: kernel.resourcestrings.msgerrorexecuteuser
+#, object-pascal-format
+msgid "Failed to execute item \"%s\" as user \"%s\""
+msgstr "\"%s\" öğesi, \"%s\" kullanıcı adıyla çalıştırılamıyor"
+
+#: kernel.resourcestrings.msgerroropenfolder
+#, object-pascal-format
+msgid "Failed to open folder \"%s\""
+msgstr "\"%s\" klasörü açılamıyor"
+
+#: kernel.resourcestrings.msgerrregcmhotkey
+msgid "Register Classic Menu's hotkey failed"
+msgstr "Grafik Menü kısatuş kaydı başarısız"
+
+#: kernel.resourcestrings.msgerrreggmhotkey
+msgid "Register Graphic Menu's hotkey failed"
+msgstr "Grafik Menü kısatuş kaydı başarısız"
+
+#: kernel.resourcestrings.msgerrregwindowhotkey
+msgid "Register window's hotkey failed"
+msgstr "Pencere kısatuş kaydı başarısız"
+
+#: kernel.resourcestrings.msgerrrun
+#, object-pascal-format
+msgid "Cannot run %s"
+msgstr "%s çalıştırılamıyor"
+
+#: kernel.resourcestrings.msgerrsave
+msgid "Save failed because of an error"
+msgstr "Bir hata nedeniyle kaydet başarısız"
+
+#: kernel.resourcestrings.msgerrscanfolderemptypath
+msgid "You haven't select any folder!"
+msgstr "Hiç klasör seçmediniz!"
+
+#: kernel.resourcestrings.msgerrscanfoldermissingtypes
+msgid "You haven't add any file types!"
+msgstr "Hiç bir dosya tipi eklemediniz!"
+
+#: kernel.resourcestrings.msgexit
+msgid "Exit"
+msgstr "Çıkış"
+
+#: kernel.resourcestrings.msgfilenotfound
+msgid "File not found"
+msgstr "Dosya bulunamadı"
+
+#: kernel.resourcestrings.msgfilterbackground
+msgid "Files supported (*.png;*.bmp)|*.png;*.bmp|All files|*.*"
+msgstr "Desteklenen dosyalar (*.png;*.bmp)|*.png;*.bmp|Tüm dosyalar|*.*"
+
+#: kernel.resourcestrings.msgfilterexe
+msgid "Executables (*.exe)|*.exe|All files|*.*"
+msgstr "Çalıştırılabilirler (*.exe)|*.exe|Tüm dosyalar|*.*"
+
+#: kernel.resourcestrings.msgfiltericon
+msgid "Icons (*.ico)|*.ico"
+msgstr "Simgeler (*.ico)|*.ico"
+
+#: kernel.resourcestrings.msgfiltericonexe
+msgid "Files supported (*.ico;*.exe)|*.ico;*.exe|All files|*.*"
+msgstr "Desteklenen dosyalar (*.ico;*.exe)|*.ico;*.exe|Tüm dosyalar|*.*"
+
+#: kernel.resourcestrings.msgfilterpicture
+msgid "Personal Picture [48x48] (*.jpg, *.png)|*.jpg;*.png"
+msgstr "Kişisel resim [48x48] (*.jpg, *.png)|*.jpg;*.png"
+
+#: kernel.resourcestrings.msgfoldernotfound
+msgid "Folder not found"
+msgstr "Klasör bulunamadı"
+
+#: kernel.resourcestrings.msgfoundnumfiles
+#, object-pascal-format
+msgid "Found and added %d files in list"
+msgstr "%d dosya bulundu ve listeye eklendi"
+
+#: kernel.resourcestrings.msggeneral
+msgid "General"
+msgstr "Genel"
+
+#: kernel.resourcestrings.msggeneratefilehasherror
+#, object-pascal-format
+msgid "Generating hash file because of an error (file path = %s)"
+msgstr "Bir hata nedeniyle kıyım (hash) dosyası oluşturuluyor (dosya yolu = %s)"
+
+#: kernel.resourcestrings.msggmabout
+msgid "About"
+msgstr "Hakkında"
+
+#: kernel.resourcestrings.msggmdocuments
+msgid "Documents"
+msgstr "Belgeler"
+
+#: kernel.resourcestrings.msggmdrivename
+#, object-pascal-format
+msgid "Drive (%s)"
+msgstr "Sürücü (%s)"
+
+#: kernel.resourcestrings.msggmexplore
+msgid "Explore"
+msgstr "Gezgin"
+
+#: kernel.resourcestrings.msggmharddiskspace
+#, object-pascal-format
+msgid "%s free of %s"
+msgstr "%s boş | %s kullanılan"
+
+#: kernel.resourcestrings.msggmmusic
+msgid "Music"
+msgstr "Müzik"
+
+#: kernel.resourcestrings.msggmoptions
+msgid "Options"
+msgstr "Ayarlar"
+
+#: kernel.resourcestrings.msggmpictures
+msgid "Pictures"
+msgstr "Resimler"
+
+#: kernel.resourcestrings.msggmshow
+#, object-pascal-format
+msgid "Show %s"
+msgstr "Göster %s"
+
+#: kernel.resourcestrings.msggmvideos
+msgid "Videos"
+msgstr "Videolar"
+
+#: kernel.resourcestrings.msghotkey
+msgid "Hotkeys"
+msgstr "Kısatuşlar"
+
+#: kernel.resourcestrings.msghotkeynokey
+msgid "You haven't select any keys!"
+msgstr "Hiç tuş seçmediniz!"
+
+#: kernel.resourcestrings.msghotkeynomod
+msgid "You haven't select any modifier keys!"
+msgstr "Hiç değiştirici tuş seçmediniz!"
+
+#: kernel.resourcestrings.msghotkeynotavailable
+msgid "This hotkey is being used already by another software or system itself. Please choose another one."
+msgstr "Bu kısatuş başka bir yazılım veya sistem tarafından kullanımda. Lütfen başka kısatuş seçiniz."
+
+#: kernel.resourcestrings.msgimport
+msgid "Import"
+msgstr "İçe aktar"
+
+#: kernel.resourcestrings.msgimportfailed
+msgid "Import failed because of an error"
+msgstr "Bir hata nedeniyle içe aktarma başarısız"
+
+#: kernel.resourcestrings.msgimportprogress
+msgid "Import in progress..."
+msgstr "İçe aktarma sürüyor ..."
+
+#: kernel.resourcestrings.msgimporttitle2
+msgid "Select the location of file list to import in ASuite"
+msgstr "İçe aktarılacak liste dosyası konumunu seç"
+
+#: kernel.resourcestrings.msgimporttitle3
+msgid "Select which items to import"
+msgstr "İçe aktarılacak öğeleri seç"
+
+#: kernel.resourcestrings.msginputusername
+msgid "Please insert username"
+msgstr "Lütfen kullanıcı adını giriniz"
+
+#: kernel.resourcestrings.msgitems
+msgid "Items"
+msgstr "Öğeler"
+
+#: kernel.resourcestrings.msgitemsimported
+#, object-pascal-format
+msgid "Import finished. %d items imported"
+msgstr "İçe aktarma bitti. %d öğe aktarıldı"
+
+#: kernel.resourcestrings.msgittaketime
+msgid "It may take time..."
+msgstr "Bu biraz zaman alabilir ..."
+
+#: kernel.resourcestrings.msglist
+msgid "List"
+msgstr "Liste"
+
+#: kernel.resourcestrings.msglongmfu
+msgid "Most Used"
+msgstr "Sık Kullanılan"
+
+#: kernel.resourcestrings.msglongmru
+msgid "Recents"
+msgstr "Son Kullanılan"
+
+#: kernel.resourcestrings.msgmainwindow
+msgid "Main Window"
+msgstr "Ana Pencere"
+
+#: kernel.resourcestrings.msgmissedtask
+#, object-pascal-format
+msgid "Seems scheduler didn't run the item %s as expected by options. Do you want execute it now?"
+msgstr "Zamanlanmış Görevler öğe: %s ayarlarda beklendiği gibi çalıştırılmamış. Şimdi çalıştırmak ister misiniz?"
+
+#: kernel.resourcestrings.msgmouse
+msgid "Mouse"
+msgstr "Fare"
+
+#: kernel.resourcestrings.msgnext
+msgid "Next >"
+msgstr "İleri >"
+
+#: kernel.resourcestrings.msgnoavailableversion
+msgid "No new version available"
+msgstr "Yeni sürüm yok"
+
+#: kernel.resourcestrings.msgnoname
+msgid "No name"
+msgstr "Ad yok"
+
+#: kernel.resourcestrings.msgnotifydropfiles
+#, object-pascal-format
+msgid "Added successfully %d files"
+msgstr "%d dosya başarıyla eklendi"
+
+#: kernel.resourcestrings.msgnotifydroplink
+msgid "Dropped text in list successfully"
+msgstr "Bağlantı metni listeye başarıyla bırakıldı"
+
+#: kernel.resourcestrings.msgnotifyexecuteitem
+#, object-pascal-format
+msgid "Execute %s"
+msgstr "Çalıştır: %s"
+
+#: kernel.resourcestrings.msgnotifyhotkey
+#, object-pascal-format
+msgid "Execute %s using hotkey"
+msgstr "Kısatuşla çalıştır: %s"
+
+#: kernel.resourcestrings.msgnotifyscheduler
+#, object-pascal-format
+msgid "Execute %s using scheduler"
+msgstr "Zamanlayıcı kullanarak çalıştır: %s"
+
+#: kernel.resourcestrings.msgopenoptions
+msgid "Options..."
+msgstr "Ayarlar..."
+
+#: kernel.resourcestrings.msgoperationcompleted
+msgid "Operation completed"
+msgstr "İşlem tamamlandı"
+
+#: kernel.resourcestrings.msgprocessingitems
+#, object-pascal-format
+msgid "Processing items (%.0f%%): %d"
+msgstr "Öğeleri işliyor: (%.0f%%): %d"
+
+#: kernel.resourcestrings.msgrestartasuitechanges
+msgid "You must restart ASuite to apply these changes."
+msgstr "Bu değişiklikleri uygulamak için ASuite yeniden başlatılmalıdır."
+
+#: kernel.resourcestrings.msgrunastitle
+msgid "Run As..."
+msgstr "... olarak çalıştır"
+
+#: kernel.resourcestrings.msgsavecompleted
+msgid "Save completed"
+msgstr "Kaydetme tamamlandı"
+
+#: kernel.resourcestrings.msgscanfolderextnotvalid
+msgid "Ext file not valid. Please check it and retry!"
+msgstr "Dosya uzantısı geçersiz. Lütfen kontrol edip yeniden deneyin!"
+
+#: kernel.resourcestrings.msgscanningcancel
+msgid "Cancel"
+msgstr "İptal"
+
+#: kernel.resourcestrings.msgscanningprogress
+msgid "Scanning in progress..."
+msgstr "Tarama çalışıyor ..."
+
+#: kernel.resourcestrings.msgshortmfu
+msgid "MFU"
+msgstr "Sık Kullanılanlar"
+
+#: kernel.resourcestrings.msgshortmru
+msgid "MRU"
+msgstr "Son Kullanılanlar"
+
+#: kernel.resourcestrings.msgshowasuite
+msgid "Show ASuite"
+msgstr "ASuite"
+
+#: kernel.resourcestrings.msgstats
+msgid "Stats"
+msgstr "Kullanım Durumu"
+
+#: kernel.resourcestrings.msgstop
+msgid "Stop"
+msgstr "Dur"
+
+#: kernel.resourcestrings.msgtrayicon
+msgid "Trayicon"
+msgstr "Tepsi simgesi"
+
+#: kernel.resourcestrings.msgusetriggersensors
+#, object-pascal-format
+msgid "Active Sensors for %s"
+msgstr "%s için algılayıcılar etkin"
+
+#: tdmtraymenu.action1.caption
+msgid "actCategory"
+msgstr "Eylem kategorisi"
+
+#: tfrmabout.caption
+#, object-pascal-format
+msgid "About %s"
+msgstr "%s hakkında"
+
+#: tfrmabout.lblappname.caption
+#, object-pascal-format
+msgid "%s"
+msgstr "%s"
+
+#: tfrmabout.lblcopyright.caption
+msgid "Copyright 2006-2020 Matteo Salvi"
+msgstr "Telif hakları 2006-2020 Matteo Salvi"
+
+#: tfrmabout.lblversion.caption
+#, object-pascal-format
+msgid "%s (%s bit)"
+msgstr "%s (%s bit)"
+
+#: tfrmabout.lnklblwebsite.caption
+msgid "http://www.salvadorsoftware.com"
+msgstr "http://www.salvadorsoftware.com"
+
+#: tfrmadvancedoptionspage.btnclear.caption
+msgid "Clear"
+msgstr "Sil"
+
+#: tfrmadvancedoptionspage.cbbackup.caption
+msgid "Active automatic backup"
+msgstr "Otomatik yedekleme etkin"
+
+#: tfrmadvancedoptionspage.cbcache.caption
+msgid "Enable cache"
+msgstr "Simge önbelleği etkin"
+
+#: tfrmadvancedoptionspage.cbclearbackup.caption
+msgid "Backups"
+msgstr "Yedekler"
+
+#: tfrmadvancedoptionspage.cbclearcache.caption
+msgid "Cache icons"
+msgstr "Simge önbelleği"
+
+#: tfrmadvancedoptionspage.cbclearmfu.caption
+msgid "Most Frequently Used"
+msgstr "Sık Kullanılanlar"
+
+#: tfrmadvancedoptionspage.cbclearmru.caption
+msgid "Recents"
+msgstr "Son Kullanılanlar"
+
+#: tfrmadvancedoptionspage.cbmfu.caption
+msgid "Active MFU items"
+msgstr "Sık Kullanılanlar Etkin"
+
+#: tfrmadvancedoptionspage.cbmru.caption
+msgid "Active recent items"
+msgstr "Son Kullanılanlar etkin"
+
+#: tfrmadvancedoptionspage.cbscheduler.caption
+msgid "Enable scheduler"
+msgstr "Zamanlanmış Görevler etkin"
+
+#: tfrmadvancedoptionspage.gbbackup.caption
+msgid "Backup"
+msgstr "Yedekler"
+
+#: tfrmadvancedoptionspage.gbmfu.caption
+msgid "Most Frequently Used"
+msgstr "Sık Kullanılanlar"
+
+#: tfrmadvancedoptionspage.gbotherfunctions.caption
+msgid "Other functions"
+msgstr "Diğer İşlevler"
+
+#: tfrmadvancedoptionspage.gbrecents.caption
+msgid "Recents"
+msgstr "Son Kullanılanlar"
+
+#: tfrmadvancedoptionspage.grpclearelements.caption
+msgid "Clear elements"
+msgstr "Öğeleri sil"
+
+#: tfrmadvancedoptionspage.lbclearelements.caption
+msgid "Clear the following elements"
+msgstr "İşaretlenen öğeleri sil"
+
+#: tfrmadvancedoptionspage.lbmaxbackup.caption
+msgid "Max number backup files"
+msgstr "En çok yedek sayısı"
+
+#: tfrmadvancedoptionspage.lbmaxmfu.caption
+msgid "Max number MFU items"
+msgstr "En çok Sık Kullanılanlar sayısı"
+
+#: tfrmadvancedoptionspage.lbmaxmru.caption
+msgid "Max number recent items"
+msgstr "En çok Son Kullanılanlar sayısı"
+
+#: tfrmadvancedpropertypage.cbdontinsertmfu.caption
+msgid "Don't insert this software in MFU"
+msgstr "Bu yazılımı Sık Kullanılanlarda gösterme"
+
+#: tfrmadvancedpropertypage.cbdontinsertmru.caption
+msgid "Don't insert this software in recents (MRU)"
+msgstr "Bu yazılımı Son Kullanılanlarda gösterme"
+
+#: tfrmadvancedpropertypage.cbhidesoftware.caption
+msgid "Hide this software from menu"
+msgstr "Bu yazılımı menüden gizle"
+
+#: tfrmadvancedpropertypage.cbhotkey.caption
+msgid "Active hotkey"
+msgstr "Kısatuş etkin"
+
+#: tfrmadvancedpropertypage.cbshortcutdesktop.caption
+msgid "Create shortcut on desktop when ASuite is running"
+msgstr "ASuite çalışırken masaüstünde kısayol oluştur"
+
+#: tfrmadvancedpropertypage.dtpschdate.textfornulldate
+msgid "NULL"
+msgstr "Boş"
+
+#: tfrmadvancedpropertypage.dtpschtime.textfornulldate
+msgid "NULL"
+msgstr "Boş"
+
+#: tfrmadvancedpropertypage.grphotkey.caption
+msgid "Hotkey"
+msgstr "Kısatuş"
+
+#: tfrmadvancedpropertypage.grpothers.caption
+msgid "Others"
+msgstr "Diğerleri"
+
+#: tfrmadvancedpropertypage.grpscheduler.caption
+msgid "Scheduler"
+msgstr "Zamanlanmış Görevler"
+
+#: tfrmautorunoptionspage.chkshutdown.caption
+msgid "Enable shutdown autorun"
+msgstr "Kapanışta otomatik çalışma etkin"
+
+#: tfrmautorunoptionspage.chkstartup.caption
+msgid "Enable startup autorun"
+msgstr "Açılışta otomatik çalışma etkin"
+
+#: tfrmautorunoptionspage.grpshutdownorderitems.caption
+msgid "Shutdown"
+msgstr "Kapat"
+
+#: tfrmautorunoptionspage.grpstartuporderitems.caption
+msgid "Startup"
+msgstr "Açılışta"
+
+#: tfrmautorunoptionspage.lblshutdowninfo.caption
+msgid "Order of shutdown autorun items in ASuite"
+msgstr "ASuite kapanışında otomatik çalıştır sırası"
+
+#: tfrmautorunoptionspage.lblstartupinfo.caption
+msgid "Order of startup autorun items in ASuite"
+msgstr "ASuite açılışında otomatik çalıştır sırası"
+
+#: tfrmautorunoptionspage.mniproperties.caption
+msgid "Properties"
+msgstr "Özellikler"
+
+#: tfrmautorunoptionspage.mniremoveautorun.caption
+msgid "Remove autorun"
+msgstr "Otomatik çalıştırı kaldır"
+
+#: tfrmautorunoptionspage.vstshutdownitems.header.columns[0].text
+msgid "Name"
+msgstr "Ad"
+
+#: tfrmautorunoptionspage.vstshutdownitems.header.columns[1].text
+msgid "Type"
+msgstr "Tip"
+
+#: tfrmautorunoptionspage.vstshutdownitems.header.columns[2].text
+msgid "Category"
+msgstr "Grup"
+
+#: tfrmautorunoptionspage.vstshutdownitems.header.columns[3].text
+msgid "Path executable"
+msgstr "Çalıştırılabilir yolu"
+
+#: tfrmautorunoptionspage.vststartupitems.header.columns[0].text
+msgid "Name"
+msgstr "Ad"
+
+#: tfrmautorunoptionspage.vststartupitems.header.columns[1].text
+msgid "Type"
+msgstr "Tip"
+
+#: tfrmautorunoptionspage.vststartupitems.header.columns[2].text
+msgid "Category"
+msgstr "Grup"
+
+#: tfrmautorunoptionspage.vststartupitems.header.columns[3].text
+msgid "Path executable"
+msgstr "Çalıştırılabilir yolu"
+
+#: tfrmbasegeneralpropertypage.edtpathicon.text
+msgid "$ASuite\\"
+msgstr "$ASuite\\"
+
+#: tfrmbasegeneralpropertypage.gbitem.caption
+msgid "Item"
+msgstr "Öğe"
+
+#: tfrmbasegeneralpropertypage.lbdescription.caption
+msgid "Description"
+msgstr "Açıklama"
+
+#: tfrmbasegeneralpropertypage.lbname.caption
+msgid "Name"
+msgstr "Ad"
+
+#: tfrmbasegeneralpropertypage.lbpathicon.caption
+msgid "Custom icon path (optional)"
+msgstr "Özel simge yolu (isteğe bağlı)"
+
+#: tfrmbehaviorpropertypage.btnchangeorder.caption
+msgid "Change autorun order"
+msgstr "Sırayı değiştir"
+
+#: tfrmbehaviorpropertypage.grpautoexecute.caption
+msgid "Autorun"
+msgstr "Otomatik çalıştır"
+
+#: tfrmbehaviorpropertypage.grponexecute.caption
+msgid "On Execute"
+msgstr "Çalıştırıldığında"
+
+#: tfrmbehaviorpropertypage.grpwindowstate.caption
+msgid "Window State"
+msgstr "Pencere Durumu"
+
+#: tfrmcatgeneralpropertypage.grpsubitems.caption
+msgid "Software in this category"
+msgstr "Bu gruptaki yazılımlar"
+
+#: tfrmcatgeneralpropertypage.lblnote.caption
+msgid "Note: In this list you can find all software items of this category (only first level). Uncheck items who you don't want to start, when run this category."
+msgstr "Not: Bu listede bu gruptaki tüm yazılımlar var (yalnızca ilk düzey). Bu grup çalıştırıldığında, başlamasını istemediğiniz öğelerin işaretini kaldırınız."
+
+#: tfrmdialogbase.caption
+msgid "frmDialogBase"
+msgstr "frmDialogBase"
+
+#: tfrmenvironmentvars.actadd.caption
+msgid "Add"
+msgstr "Ekle"
+
+#: tfrmenvironmentvars.actcopy.caption
+msgid "Copy"
+msgstr "Kopyala"
+
+#: tfrmenvironmentvars.actdelete.caption
+msgid "Delete"
+msgstr "Sil"
+
+#: tfrmenvironmentvars.actpaste.caption
+msgid "Paste"
+msgstr "Yapıştır"
+
+#: tfrmenvironmentvars.grpothers.caption
+msgid "Environment Variables"
+msgstr "Ortam değişkenleri"
+
+#: tfrmenvironmentvars.tbbuttons.caption
+msgid "tbButtons"
+msgstr "tbButtons"
+
+#: tfrmgeneraloptionspage.cbrunsingleclick.caption
+msgid "Execute with single click in main window"
+msgstr "Ana pencerede tek tıkla çalıştır"
+
+#: tfrmgeneraloptionspage.cbsecondinstancegm.caption
+msgid "Show Graphic Menu, when run another ASuite instance"
+msgstr "Çalışan ASuite kopyası varsa, grafik menüyü göster"
+
+#: tfrmgeneraloptionspage.cbshowmenustartup.caption
+msgid "Show Graphic Menu"
+msgstr "Grafik menüyü göster"
+
+#: tfrmgeneraloptionspage.cbshowpanelstartup.caption
+msgid "Show main window"
+msgstr "Ana pencereyi göster"
+
+#: tfrmgeneraloptionspage.cbwindowsstartup.caption
+msgid "Start ASuite on Operating System startup"
+msgstr "Windows açıldığında ASuite çalışsın"
+
+#: tfrmgeneraloptionspage.chkautocloseprocess.caption
+msgid "Close all process opened by ASuite at launcher shutdown"
+msgstr "Kapanışta ASuite tarafından açılmış tüm işlemleri kapat"
+
+#: tfrmgeneraloptionspage.chkconfirmmessagecat.caption
+#| msgid "Ask to confirm before run a category"
+msgid "Ask confirm before run a category"
+msgstr "Bir grup çalıştırmadan önce onay sor"
+
+#: tfrmgeneraloptionspage.chkconfirmmsgcloseapp.caption
+msgid "Ask confirm before exiting"
+msgstr "Çıkıştan önce onay sor"
+
+#: tfrmgeneraloptionspage.chkmissedschedulertask.caption
+msgid "Check missed scheduler task"
+msgstr "Açılışta kaçırılmış Zamanlanmış Görevleri kontrol et"
+
+#: tfrmgeneraloptionspage.gbexecution.caption
+msgid "Execution"
+msgstr "Çalıştır"
+
+#: tfrmgeneraloptionspage.gbstartup.caption
+msgid "General"
+msgstr "Genel"
+
+#: tfrmgeneraloptionspage.gbstartup1.caption
+msgid "ASuite Startup"
+msgstr "ASuite açılışı"
+
+#: tfrmgeneraloptionspage.lbactiononexe.caption
+msgid "On execution"
+msgstr "Çalıştırıldığında"
+
+#: tfrmgeneraloptionspage.lblanguage.caption
+msgid "Language"
+msgstr "Dil"
+
+#: tfrmgraphicmenu.caption
+msgid "ASuite Menu"
+msgstr "ASuite Menü"
+
+#: tfrmgraphicmenu.lbldrivespace.caption
+msgid "132Mb / 2Gb (6.6%)"
+msgstr "132Mb / 2Gb (6.6%)"
+
+#: tfrmgraphicmenu.mniopenfoldersw.caption
+msgid "Open file location"
+msgstr "Dosya konumunu aç"
+
+#: tfrmgraphicmenu.mniproperty.caption
+msgid "Properties"
+msgstr "Özellikler"
+
+#: tfrmgraphicmenu.mnirun.caption
+msgid "Run"
+msgstr "Çalıştır"
+
+#: tfrmgraphicmenu.mnirunas.caption
+msgid "Run as..."
+msgstr "... olarak çalıştır"
+
+#: tfrmgraphicmenu.mnirunasadmin.caption
+msgid "Run as admin"
+msgstr "Yönetici olarak çalıştır"
+
+#: tfrmhotkeyoptionspage.cbhotkey.caption
+msgid "Enable hotkeys"
+msgstr "Kısatuşlar etkin"
+
+#: tfrmhotkeyoptionspage.gbhotkey.caption
+msgid "Hotkeys"
+msgstr "Kısatuşlar"
+
+#: tfrmhotkeyoptionspage.grpordersoftware.caption
+msgid "Hotkeys list"
+msgstr "Kısatuş listesi"
+
+#: tfrmhotkeyoptionspage.lblhotkeycm.caption
+msgid "Show classic menu when hotkey is pressed"
+msgstr "Kısatuşlandığında klasik menüyü göster"
+
+#: tfrmhotkeyoptionspage.lblhotkeygm.caption
+msgid "Show graphic menu when hotkey is pressed"
+msgstr "Kısatuşlandığında grafik menüyü göster"
+
+#: tfrmhotkeyoptionspage.lblhotkeywindow.caption
+msgid "Show window when hotkey is pressed"
+msgstr "Kısatuşlandığında pencereyi göster"
+
+#: tfrmhotkeyoptionspage.mniedithotkey.caption
+msgid "Edit Hotkey"
+msgstr "Kısatuşu düzenle"
+
+#: tfrmhotkeyoptionspage.mniproperties.caption
+msgid "Properties"
+msgstr "Özellikler"
+
+#: tfrmhotkeyoptionspage.mniremovehotkey.caption
+msgid "Remove Hotkey"
+msgstr "Kısatuşu kaldır"
+
+#: tfrmhotkeyoptionspage.vstitems.header.columns[0].text
+msgid "Name"
+msgstr "Ad"
+
+#: tfrmhotkeyoptionspage.vstitems.header.columns[1].text
+msgid "Type"
+msgstr "Tip"
+
+#: tfrmhotkeyoptionspage.vstitems.header.columns[2].text
+msgid "Category"
+msgstr "Grup"
+
+#: tfrmhotkeyoptionspage.vstitems.header.columns[3].text
+msgid "Hotkey"
+msgstr "Kısatuş"
+
+#: tfrmimportlist.btnback.caption
+msgid "< Back"
+msgstr "< Geri"
+
+#: tfrmimportlist.btncancel.caption
+msgid "Cancel"
+msgstr "İptal"
+
+#: tfrmimportlist.btndeselectall.caption
+msgid "Deselect all"
+msgstr "Tüm seçimleri kaldır"
+
+#: tfrmimportlist.btnnext.caption
+msgid "Next >"
+msgstr "İleri >"
+
+#: tfrmimportlist.btnselectall.caption
+msgid "Select all"
+msgstr "Tümünü seç"
+
+#: tfrmimportlist.caption
+msgid "Import list"
+msgstr "İçe aktarılacak liste"
+
+#: tfrmimportlist.gbfile.caption
+msgid "File List"
+msgstr "Dosya Listesi"
+
+#: tfrmimportlist.lblfile.caption
+msgid "Launcher File location:"
+msgstr "İçe aktarılacak dosya konumu:"
+
+#: tfrmimportlist.lbltitle.caption
+msgid "Placeholder text"
+msgstr "Yer tutucu metin"
+
+#: tfrmimportlist.tsaskfilelist.caption
+msgid "tsAskFileList"
+msgstr "tsAskFileList"
+
+#: tfrmimportlist.tslist.caption
+msgid "tsItems"
+msgstr "tsItems"
+
+#: tfrmmain.actaddcat.caption
+msgid "Add category..."
+msgstr "Grup ekle ..."
+
+#: tfrmmain.actaddfolder.caption
+msgid "Add folder..."
+msgstr "Klasör ekle ..."
+
+#: tfrmmain.actaddseparator.caption
+msgid "Add separator..."
+msgstr "Ayırıcı çizgi ekle ..."
+
+#: tfrmmain.actaddsoftware.caption
+msgid "Add software..."
+msgstr "Yazılım ekle ..."
+
+#: tfrmmain.actcopy.caption
+msgid "Copy"
+msgstr "Kopyala"
+
+#: tfrmmain.actcut.caption
+msgid "Cut"
+msgstr "Kes"
+
+#: tfrmmain.actdelete.caption
+msgid "Delete"
+msgstr "Sil"
+
+#: tfrmmain.actopenfolderitem.caption
+msgid "Open file location"
+msgstr "Dosya konumunu aç"
+
+#: tfrmmain.actpaste.caption
+msgid "Paste"
+msgstr "Yapıştır"
+
+#: tfrmmain.actproperty.caption
+msgid "Properties"
+msgstr "Özellikler"
+
+#: tfrmmain.actrunasadminitem.caption
+msgid "Run as admin"
+msgstr "Yönetici olarak çalıştır"
+
+#: tfrmmain.actrunasitem.caption
+msgid "Run as..."
+msgstr "... olarak çalıştır"
+
+#: tfrmmain.actrunitem.caption
+msgid "Run"
+msgstr "Çalıştır"
+
+#: tfrmmain.actsepedit.caption
+msgid "-"
+msgstr "-"
+
+#: tfrmmain.actsortcatitems.caption
+msgid "Sort category's items"
+msgstr "Grup öğelerini sırala"
+
+#: tfrmmain.actsortlist.caption
+msgid "Sort list"
+msgstr "Listeyi sırala"
+
+#: tfrmmain.btnedtsearch.texthint
+msgid "Name"
+msgstr "Ad"
+
+#: tfrmmain.caption
+msgid "ASuite"
+msgstr "ASuite"
+
+#: tfrmmain.miedit.caption
+msgid "Edit"
+msgstr "Düzenle"
+
+#: tfrmmain.miexit1.caption
+msgid "Exit"
+msgstr "Çıkış"
+
+#: tfrmmain.miexportlist.caption
+msgid "Export list..."
+msgstr "Listeyi dışa aktar ..."
+
+#: tfrmmain.mifile.caption
+msgid "File"
+msgstr "Dosya"
+
+#: tfrmmain.mihelp.caption
+msgid "Help"
+msgstr "Yardım"
+
+#: tfrmmain.miimportlist.caption
+msgid "Import list..."
+msgstr "İçe aktarılacak liste ..."
+
+#: tfrmmain.miinfoasuite.caption
+msgid "About ASuite"
+msgstr "ASuite hakkında"
+
+#: tfrmmain.mioptions1.caption
+msgid "Options"
+msgstr "Ayarlar"
+
+#: tfrmmain.misavelist1.caption
+msgid "Save list"
+msgstr "Listeyi kaydet"
+
+#: tfrmmain.misearchexepath.caption
+msgid "Executable path"
+msgstr "Çalıştırılabilir yolu"
+
+#: tfrmmain.misearchiconpath.caption
+msgid "Icon path"
+msgstr "Simge yolu"
+
+#: tfrmmain.misearchname.caption
+msgid "Name"
+msgstr "Ad"
+
+#: tfrmmain.misearchparameters.caption
+msgid "Parameters"
+msgstr "Parametreler"
+
+#: tfrmmain.misearchworkingdirpath.caption
+msgid "Working directory path"
+msgstr "Çalışma klasörü yolu"
+
+#: tfrmmain.mistatistics.caption
+msgid "Statistics"
+msgstr "Kullanım durumu"
+
+#: tfrmmain.mniscanfolder.caption
+msgid "Scan for files..."
+msgstr "Dosyaları tara ..."
+
+#: tfrmmain.tblist.caption
+msgid "List"
+msgstr "Liste"
+
+#: tfrmmain.tbsearch.caption
+msgid "Search"
+msgstr "Ara"
+
+#: tfrmmain.vstsearch.header.columns[0].text
+msgid "Name"
+msgstr "Ad"
+
+#: tfrmmain.vstsearch.header.columns[1].text
+msgid "Category"
+msgstr "Grup"
+
+#: tfrmmainwindowoptionspage.btnfontsettings.caption
+msgid "Font settings..."
+msgstr "Yazıtipi ayarları ..."
+
+#: tfrmmainwindowoptionspage.cbautoopclcat.caption
+msgid "Automatic opening/closing categories"
+msgstr "Grupları otomatik aç/kapa"
+
+#: tfrmmainwindowoptionspage.cbautoopdragdrop.caption
+msgid "Automatic opening category, after drag&&drop an item in it"
+msgstr "Bir öğe sürüklenip bırakıldığında, grubu otomatik aç"
+
+#: tfrmmainwindowoptionspage.cbbackground.caption
+msgid "Active custom background"
+msgstr "Arkaplanı özelleştir"
+
+#: tfrmmainwindowoptionspage.cbcustomtitle.caption
+msgid "Custom main window title"
+msgstr "Ana pencere başlığını özelleştir"
+
+#: tfrmmainwindowoptionspage.cbdialogcentermf.caption
+msgid "Open dialogs in the center of main window"
+msgstr "İletişim kutularını ana pencerenin ortasında aç"
+
+#: tfrmmainwindowoptionspage.cbdisableconfirmdelete.caption
+msgid "Disable delete items confirmation dialog"
+msgstr "Öğe silme onay iletişim kutusunu devre dışı bırak"
+
+#: tfrmmainwindowoptionspage.cbhidesearch.caption
+msgid "Hide tab Search"
+msgstr "Ana pencerede Ara sekmesini gizle"
+
+#: tfrmmainwindowoptionspage.cbholdsize.caption
+msgid "Disable window resize"
+msgstr "Ana pencere boyunu sabitle"
+
+#: tfrmmainwindowoptionspage.cbsmallicon.caption
+msgid "Small icon size in main window"
+msgstr "Ana pencerede küçük simge boyu"
+
+#: tfrmmainwindowoptionspage.cbwindowontop.caption
+msgid "Main window always on top"
+msgstr "Ana pencere her zaman üstte"
+
+#: tfrmmainwindowoptionspage.chksearchasyoutype.caption
+msgid "Search as you type"
+msgstr "Yazdıkça aramaya başla"
+
+#: tfrmmainwindowoptionspage.edtbackground.text
+msgid "$ASuite\\"
+msgstr "$ASuite\\"
+
+#: tfrmmainwindowoptionspage.edtcustomtitle.text
+msgid "ASuite"
+msgstr "ASuite"
+
+#: tfrmmainwindowoptionspage.gbtreeview.caption
+msgid "Treeview"
+msgstr "Liste görünümü"
+
+#: tfrmmainwindowoptionspage.gbwindow.caption
+msgid "General"
+msgstr "Genel"
+
+#: tfrmoptions.caption
+msgid "Options"
+msgstr "Ayarlar"
+
+#: tfrmpropertyitem.caption
+msgid "Property"
+msgstr "Özellik"
+
+#: tfrmpropertyseparator.btncancel.caption
+msgid "Cancel"
+msgstr "İptal"
+
+#: tfrmpropertyseparator.btnok.caption
+msgid "Ok"
+msgstr "Tamam"
+
+#: tfrmpropertyseparator.caption
+msgid "Properties"
+msgstr "Özellikler"
+
+#: tfrmpropertyseparator.lbname.caption
+msgid "Name"
+msgstr "Ad"
+
+#: tfrmscanfolder.btnexcludeadd.caption
+msgid "Add"
+msgstr "Ekle"
+
+#: tfrmscanfolder.btnexcludedelete.caption
+msgid "Delete"
+msgstr "Sil"
+
+#: tfrmscanfolder.btntypesadd.caption
+msgid "Add"
+msgstr "Ekle"
+
+#: tfrmscanfolder.btntypesdelete.caption
+msgid "Delete"
+msgstr "Sil"
+
+#: tfrmscanfolder.caption
+msgid "Scan folder"
+msgstr "Klasörü tara"
+
+#: tfrmscanfolder.chkextractname.caption
+msgid "Extract name automatically from executables (only *.exe)"
+msgstr "Çalıştırılabilir dosyalardan bilgileri al (yalnızca *.exe)"
+
+#: tfrmscanfolder.grpexclude.caption
+msgid "Exclude files"
+msgstr "Dosyaları hariç tut"
+
+#: tfrmscanfolder.grpfiletypes.caption
+msgid "File Types"
+msgstr "Dosya Tipleri"
+
+#: tfrmscanfolder.grpgeneralsettings.caption
+msgid "General settings"
+msgstr "Genel ayarlar"
+
+#: tfrmscanfolder.pnlbuttons.okbutton.caption
+msgid "&Scan"
+msgstr "&Tara"
+
+#: tfrmshortcutgrabber.btncancel.caption
+msgid "Cancel"
+msgstr "İptal"
+
+#: tfrmshortcutgrabber.btnok.caption
+msgid "Ok"
+msgstr "Tamam"
+
+#: tfrmshortcutgrabber.caption
+msgid "Choose hotkey..."
+msgstr "Kısatuş seç ..."
+
+#: tfrmshortcutgrabber.lblinfo.caption
+msgid "Select modifiers above, then enter desired key:"
+msgstr "Üstteki değiştirici tuşları seçin, sonra istediğiniz tuşa basın:"
+
+#: tfrmstatsoptionspage.gbasuite.caption
+msgid "ASuite"
+msgstr "ASuite"
+
+#: tfrmstatsoptionspage.gbsupport.caption
+#, object-pascal-format
+msgid "Drive %S"
+msgstr "Sürücü %S"
+
+#: tfrmstatsoptionspage.gbsystem.caption
+msgid "System"
+msgstr "Sistem"
+
+#: tfrmstatsoptionspage.lbcat.caption
+msgid "Categories added"
+msgstr "Eklenmiş gruplar"
+
+#: tfrmstatsoptionspage.lbcat.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lblbuild.caption
+msgid "Build Version"
+msgstr "Derleme sürümü"
+
+#: tfrmstatsoptionspage.lblbuild.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lblprocessor.caption
+msgid "Processor"
+msgstr "İşlemci"
+
+#: tfrmstatsoptionspage.lblprocessor.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lblram.caption
+msgid "Total physical memory"
+msgstr "Toplam fiziksel bellek (RAM)"
+
+#: tfrmstatsoptionspage.lblram.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lbos.caption
+msgid "Operating System"
+msgstr "İşletim Sistemi"
+
+#: tfrmstatsoptionspage.lbos.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lbsize.caption
+msgid "Size"
+msgstr "Boyut"
+
+#: tfrmstatsoptionspage.lbsize.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lbsoftware.caption
+msgid "Software added"
+msgstr "Eklenmiş yazılım"
+
+#: tfrmstatsoptionspage.lbsoftware.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lbspacefree.caption
+msgid "Free space"
+msgstr "Boş alan"
+
+#: tfrmstatsoptionspage.lbspacefree.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lbspaceused.caption
+msgid "Used space"
+msgstr "Kullanılan alan"
+
+#: tfrmstatsoptionspage.lbspaceused.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lbtotal.caption
+msgid "Total"
+msgstr "Toplam"
+
+#: tfrmstatsoptionspage.lbtotal.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmstatsoptionspage.lbuser.caption
+msgid "Current user"
+msgstr "Geçerli kullanıcı"
+
+#: tfrmstatsoptionspage.lbuser.rightcaption
+msgid "Value"
+msgstr "Değer"
+
+#: tfrmswgeneralpropertypage.edtpathexe.text
+msgid "$ASuite\\"
+msgstr "$ASuite\\"
+
+#: tfrmswgeneralpropertypage.edtworkingdir.text
+msgid "$ASuite\\"
+msgstr "$ASuite\\"
+
+#: tfrmswgeneralpropertypage.grpsoftware.caption
+msgid "Path"
+msgstr "Yol"
+
+#: tfrmswgeneralpropertypage.lbinfo2.caption
+msgid "Note: You can use these vars (included environment variables) in relative path:\n"
+"- %asuite% = ASuite folder path (\"%s\")\n"
+"- %drive% = drive path (\"%s\")"
+msgstr "Not: Göreceli yollarda (ortam değişkenlerine dahil) bu değişkenleri kullanabilirsiniz:\n"
+"- %asuite% = ASuite klasör yolu (\"%s\")\n"
+"- %drive% = sürücü yolu (\"%s\")"
+
+#: tfrmswgeneralpropertypage.lbparameters.caption
+msgid "Parameters (optional)"
+msgstr "Parametreler (isteğe bağlı)"
+
+#: tfrmswgeneralpropertypage.lbpathexe.caption
+msgid "Executable/folder/web page path"
+msgstr "Uygulama/Klasör/Web Sayfası yolu"
+
+#: tfrmswgeneralpropertypage.lbworkingdir.caption
+msgid "Custom working directory (optional)"
+msgstr "Çalışma klasörü yolu (isteğe bağlı)"
+
+#: tfrmtrayiconoptionspage.cbmenufade.caption
+msgid "Enable fade effect"
+msgstr "Menü solgunlaştırma etkin"
+
+#: tfrmtrayiconoptionspage.cbsmallicon.caption
+msgid "Small TreeView's icon size"
+msgstr "Liste görünümünde küçük simgeler"
+
+#: tfrmtrayiconoptionspage.cbsubmenumfu.caption
+msgid "Most Used items on trayicon submenu"
+msgstr "Tepsi simgesi alt menüsünde Sık Kullanılanları göster"
+
+#: tfrmtrayiconoptionspage.cbsubmenumru.caption
+msgid "Recent items on trayicon submenu"
+msgstr "Tepsi simgesi alt menüsünde Son Kullanılanları göster"
+
+#: tfrmtrayiconoptionspage.cbtraycustomicon.caption
+msgid "Custom tray icon"
+msgstr "Tepsi simgesini özelleştir"
+
+#: tfrmtrayiconoptionspage.cbtrayicon.caption
+msgid "Enable the System Tray icon"
+msgstr "Sistem tepsi simgesi etkin"
+
+#: tfrmtrayiconoptionspage.chkautoexpansion.caption
+msgid "Active autoexpansion folder"
+msgstr "Otomatik klasör genişletme etkin"
+
+#: tfrmtrayiconoptionspage.chkautomatichidemenu.caption
+msgid "Auto-hide menu"
+msgstr "Menüyü otomatik gizle"
+
+#: tfrmtrayiconoptionspage.chkuserpicture.caption
+msgid "Show user picture in menu"
+msgstr "Menüde kullanıcı resmini göster"
+
+#: tfrmtrayiconoptionspage.chkejectbutton.caption
+msgid "Hide Eject USB Disk menu item"
+msgstr "Donanımı güvenle kaldır öğesini menüde gizle"
+
+#: tfrmtrayiconoptionspage.chkejectitem.caption
+msgid "Hide Eject USB Disk button"
+msgstr "Usb Diski çıkar düğmesini menüde gizle"
+
+#: tfrmtrayiconoptionspage.edtcustomicon.text
+msgid "$ASuite\\"
+msgstr "$ASuite\\"
+
+#: tfrmtrayiconoptionspage.gbtrayicon.caption
+msgid "System Tray"
+msgstr "Sistem Tepsisi"
+
+#: tfrmtrayiconoptionspage.grpclassicmenu.caption
+msgid "Classic Menu"
+msgstr "Klasik Menü"
+
+#: tfrmtrayiconoptionspage.grpgraphicmenu.caption
+msgid "Graphic Menu"
+msgstr "Grafik Menü"
+
+#: tfrmtrayiconoptionspage.lblmiddleclick.caption
+msgid "Middle click"
+msgstr "Orta (teker) tık"
+
+#: tfrmtrayiconoptionspage.lbmenutheme.caption
+msgid "Theme"
+msgstr "Tema"
+
+#: tfrmtrayiconoptionspage.lbtrayleftclick.caption
+msgid "Left click"
+msgstr "Sol tık"
+
+#: tfrmtrayiconoptionspage.lbtrayrightclick.caption
+msgid "Right click"
+msgstr "Sağ tık"
+
+#: tfrmuilogin.lblinfo.caption
+msgid "Please insert username and password"
+msgstr "Lütfen kullanıcı adı ve şifresini giriniz"
+
+#: tfrmuilogin.lblpassword.caption
+msgid "&Password"
+msgstr "&Şifre"
+
+#: tfrmuilogin.lblusername.caption
+msgid "&User Name"
+msgstr "&Kullanıcı Adı"
+
