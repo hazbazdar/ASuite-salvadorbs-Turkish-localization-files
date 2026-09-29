@@ -20,8 +20,7 @@
      Note: Minor corrections are done in this language file as per [Asuite - issue #230](https://github.com/salvadorbs/Asuite/issues/230)
 <br/><br/>
 ## English language file for ASuite launcher 2.1 beta (salvadorbs):
-  Minor corrections are done in asuite.en_EN.po language file as stated in issue #230:<br/> 
-  url: [Asuite - issue #230](https://github.com/salvadorbs/Asuite/issues/230)<br/>
+  Minor corrections are done in asuite.en_EN.po language file as per [Asuite - issue #230](https://github.com/salvadorbs/Asuite/issues/230)<br/>
   English language file: [asuite.en_EN.po](asuite.en_EN.po)
    <br/><br/>
 ## ASuite başlatıcı (salvadorbs) için Türkçe dil dosyaları:
