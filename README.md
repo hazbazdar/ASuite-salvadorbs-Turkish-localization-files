@@ -4,20 +4,22 @@
      Turkish language file: [asuite.tr_TR.po](asuite.tr_TR.po)<br/>
      Copy this language file to language directory: %ASuite%\locale<br/>
      Go to: ASuite/Options/General: Language dropdown box, select türkçe<br/>
+
+     Note: Minor corrections are done in this language file as per [Asuite - issue #230](https://github.com/salvadorbs/Asuite/issues/230)<br/>
      
-  2. ASuite 2.0.0 (stable):<br/>
+  3. ASuite 2.0.0 (stable):<br/>
      url: [Asuite - github](https://github.com/salvadorbs/Asuite/releases)<br/>
      Turkish language file: [turkce.lng](turkce.lng)<br/>
      Copy this language file to language directory: %ASuite%\locale<br/>
      Go to: ASuite/Options/General: Language dropdown box, select türkçe<br/>
 
-  3. ASuite 1.5.2 (beta):<br/>
+  4. ASuite 1.5.2 (beta):<br/>
      url: [Asuite - sourceforge](https://sourceforge.net/projects/asuite/)<br/>
      Turkish language file: [turkce.xml](turkce.xml)<br/>
      Copy this language file to language directory: %ASuite%\Lang<br/>
      Go to: ASuite/Options/General: Language dropdown box, select turkce.xml<br/>
 
-     Note: Minor corrections are done in this language file as per [Asuite - issue #230](https://github.com/salvadorbs/Asuite/issues/230)
+
 <br/><br/>
 ## English language file for ASuite launcher 2.1 beta (salvadorbs):
   Minor corrections are done in asuite.en_EN.po language file as per [Asuite - issue #230](https://github.com/salvadorbs/Asuite/issues/230)<br/>
